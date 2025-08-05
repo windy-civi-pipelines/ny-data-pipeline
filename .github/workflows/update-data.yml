@@ -51,6 +51,7 @@ jobs:
         run: |
           mkdir -p ${RUNNER_TEMP}/_working
           docker run \
+              -e NEW_YORK_API_KEY=${{ secrets.NEW_YORK_API_KEY }} \
               -v "${RUNNER_TEMP}/_working/_data":/opt/openstates/openstates/_data \
               -v "${RUNNER_TEMP}/_working/_cache":/opt/openstates/openstates/_cache \
               openstates/scrapers:dev \
