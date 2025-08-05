@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S8022",
+  "title": "Relates to authorizing the town of Dekalb, in the county of St. Lawrence, to reduce the maximum speed limit on certain public roadways",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Authorizes the town of Dekalb, in the county of St. Lawrence, to reduce the maximum speed limit on a portion of United States route eleven."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "REFERRED TO LOCAL GOVERNMENT",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mark Walczyk",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mark Walczyk\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "A 3762",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 3762",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 8791",
+      "legislative_session": "2023-2024",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "S 1868",
+      "legislative_session": "2021-2022",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "S 7760",
+      "legislative_session": "2019-2020",
+      "relation_type": "prior-session"
+    }
+  ],
+  "versions": [
+    {
+      "note": "S8022",
+      "links": [
+        {
+          "url": "http://assembly.state.ny.us/leg/?sh=printbill&bn=S8022&term=2025&Text=Y",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S8022",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S8022?summary=&detail=",
+      "note": ""
+    },
+    {
+      "url": "http://www.nysenate.gov/legislation/bills/2025/S8022",
+      "note": ""
+    },
+    {
+      "url": "https://nyassembly.gov/leg/?bn=S08022&term=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ny/government",
+    "name": "New York",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ny"
+  },
+  "scraped_at": "2025-08-05T20:14:07+00:00",
+  "_id": "bd7d24c2-7238-11f0-acc8-8e31291036f2"
+}

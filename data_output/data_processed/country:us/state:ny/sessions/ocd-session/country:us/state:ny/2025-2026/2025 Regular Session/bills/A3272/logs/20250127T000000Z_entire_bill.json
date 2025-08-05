@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "A3272",
+  "title": "Relates to the election by certain counties to withdraw from the metropolitan commuter transportation district, and permits the counties of Orange and Rockland to make such election",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Relates to the election by certain counties to withdraw from the metropolitan commuter transportation district; permits the counties of Orange and Rockland to make such election."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Karl Brabenec",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karl Brabenec\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "A 5400",
+      "legislative_session": "2023-2024",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 5646",
+      "legislative_session": "2021-2022",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 5547",
+      "legislative_session": "2019-2020",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 5598",
+      "legislative_session": "2017-2018",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 5719",
+      "legislative_session": "2015-2016",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 3278",
+      "legislative_session": "2013-2014",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 751",
+      "legislative_session": "2011-2012",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 9379",
+      "legislative_session": "2009-2010",
+      "relation_type": "prior-session"
+    }
+  ],
+  "versions": [
+    {
+      "note": "A3272",
+      "links": [
+        {
+          "url": "http://assembly.state.ny.us/leg/?sh=printbill&bn=A3272&term=2025&Text=Y",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A3272",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A3272?summary=&detail=",
+      "note": ""
+    },
+    {
+      "url": "http://www.nysenate.gov/legislation/bills/2025/A3272",
+      "note": ""
+    },
+    {
+      "url": "https://nyassembly.gov/leg/?bn=A03272&term=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ny/government",
+    "name": "New York",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ny"
+  },
+  "scraped_at": "2025-08-05T19:14:17+00:00",
+  "_id": "619e1e70-7230-11f0-acc8-8e31291036f2"
+}

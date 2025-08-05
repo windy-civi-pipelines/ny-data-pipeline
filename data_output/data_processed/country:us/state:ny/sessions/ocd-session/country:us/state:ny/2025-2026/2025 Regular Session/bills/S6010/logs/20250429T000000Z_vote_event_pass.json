@@ -1,0 +1,100 @@
+{
+  "identifier": "",
+  "motion_text": "Commerce, Economic Development And Small Business Vote",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "f07b4d4e-7234-11f0-acc8-8e31291036f2",
+  "bill_action": null,
+  "bill_identifier": "S6010",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "April Baskin",
+      "voter_id": "~{\"name\": \"April Baskin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "George Borrello",
+      "voter_id": "~{\"name\": \"George Borrello\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Monica Martinez",
+      "voter_id": "~{\"name\": \"Monica Martinez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dean Murray",
+      "voter_id": "~{\"name\": \"Dean Murray\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jessica Ramos",
+      "voter_id": "~{\"name\": \"Jessica Ramos\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christopher Ryan",
+      "voter_id": "~{\"name\": \"Christopher Ryan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sean Ryan",
+      "voter_id": "~{\"name\": \"Sean Ryan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stephen T. Chan",
+      "voter_id": "~{\"name\": \"Stephen T. Chan\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "James Sanders Jr.",
+      "voter_id": "~{\"name\": \"James Sanders Jr.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 1
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S6010?summary=&detail=",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "f07b765c-7234-11f0-acc8-8e31291036f2"
+}

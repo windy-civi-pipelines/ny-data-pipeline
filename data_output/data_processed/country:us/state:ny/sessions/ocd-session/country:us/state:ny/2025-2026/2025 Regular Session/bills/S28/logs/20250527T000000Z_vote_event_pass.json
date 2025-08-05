@@ -1,0 +1,82 @@
+{
+  "identifier": "",
+  "motion_text": "Disabilities Vote - Version: B",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-27",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "91952be6-722b-11f0-acc8-8e31291036f2",
+  "bill_action": null,
+  "bill_identifier": "S28",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Patricia Fahy",
+      "voter_id": "~{\"name\": \"Patricia Fahy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Monica Martinez",
+      "voter_id": "~{\"name\": \"Monica Martinez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roxanne J. Persaud",
+      "voter_id": "~{\"name\": \"Roxanne J. Persaud\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jessica Scarcella-Spanton",
+      "voter_id": "~{\"name\": \"Jessica Scarcella-Spanton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jake Ashby",
+      "voter_id": "~{\"name\": \"Jake Ashby\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "William Weber",
+      "voter_id": "~{\"name\": \"William Weber\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S28?summary=&detail=",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "919592f2-722b-11f0-acc8-8e31291036f2"
+}

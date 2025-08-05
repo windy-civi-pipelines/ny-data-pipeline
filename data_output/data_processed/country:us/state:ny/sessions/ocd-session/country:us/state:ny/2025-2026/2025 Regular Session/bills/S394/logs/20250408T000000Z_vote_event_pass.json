@@ -1,0 +1,88 @@
+{
+  "identifier": "",
+  "motion_text": "Crime Victims, Crime And Correction Vote",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "f9b38114-722b-11f0-acc8-8e31291036f2",
+  "bill_action": null,
+  "bill_identifier": "S394",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jamaal Bailey",
+      "voter_id": "~{\"name\": \"Jamaal Bailey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pete Harckham",
+      "voter_id": "~{\"name\": \"Pete Harckham\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gustavo Rivera",
+      "voter_id": "~{\"name\": \"Gustavo Rivera\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Julia Salazar",
+      "voter_id": "~{\"name\": \"Julia Salazar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Luis R. Sep\u00falveda",
+      "voter_id": "~{\"name\": \"Luis R. Sep\\u00falveda\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dean Murray",
+      "voter_id": "~{\"name\": \"Dean Murray\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Robert Rolison",
+      "voter_id": "~{\"name\": \"Robert Rolison\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S394?summary=&detail=",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "f9b3982a-722b-11f0-acc8-8e31291036f2"
+}

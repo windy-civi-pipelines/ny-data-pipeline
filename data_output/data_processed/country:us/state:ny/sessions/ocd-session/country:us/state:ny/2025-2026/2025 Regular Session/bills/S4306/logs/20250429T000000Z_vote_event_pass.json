@@ -1,0 +1,130 @@
+{
+  "identifier": "",
+  "motion_text": "Health Vote",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "e2682fc2-7231-11f0-acc8-8e31291036f2",
+  "bill_action": null,
+  "bill_identifier": "S4306",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jake Ashby",
+      "voter_id": "~{\"name\": \"Jake Ashby\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Samra Brouk",
+      "voter_id": "~{\"name\": \"Samra Brouk\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristen Gonzalez",
+      "voter_id": "~{\"name\": \"Kristen Gonzalez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brad Hoylman-Sigal",
+      "voter_id": "~{\"name\": \"Brad Hoylman-Sigal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robert Jackson",
+      "voter_id": "~{\"name\": \"Robert Jackson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Zellnor Myrie",
+      "voter_id": "~{\"name\": \"Zellnor Myrie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kevin S. Parker",
+      "voter_id": "~{\"name\": \"Kevin S. Parker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gustavo Rivera",
+      "voter_id": "~{\"name\": \"Gustavo Rivera\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christopher Ryan",
+      "voter_id": "~{\"name\": \"Christopher Ryan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lea Webb",
+      "voter_id": "~{\"name\": \"Lea Webb\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patrick M. Gallivan",
+      "voter_id": "~{\"name\": \"Patrick M. Gallivan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jack M. Martins",
+      "voter_id": "~{\"name\": \"Jack M. Martins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steve Rhoads",
+      "voter_id": "~{\"name\": \"Steve Rhoads\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dan Stec",
+      "voter_id": "~{\"name\": \"Dan Stec\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 14
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S4306?summary=&detail=",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "e268518c-7231-11f0-acc8-8e31291036f2"
+}

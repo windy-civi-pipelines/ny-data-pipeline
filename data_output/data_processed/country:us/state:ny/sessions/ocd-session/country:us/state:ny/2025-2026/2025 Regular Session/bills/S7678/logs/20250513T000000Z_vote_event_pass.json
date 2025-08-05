@@ -1,0 +1,124 @@
+{
+  "identifier": "",
+  "motion_text": "Transportation Vote",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-13",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "fd15c428-7237-11f0-acc8-8e31291036f2",
+  "bill_action": null,
+  "bill_identifier": "S7678",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Siela Bynoe",
+      "voter_id": "~{\"name\": \"Siela Bynoe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeremy Cooney",
+      "voter_id": "~{\"name\": \"Jeremy Cooney\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nathalia Fernandez",
+      "voter_id": "~{\"name\": \"Nathalia Fernandez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patrick M. Gallivan",
+      "voter_id": "~{\"name\": \"Patrick M. Gallivan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joseph A. Griffo",
+      "voter_id": "~{\"name\": \"Joseph A. Griffo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pete Harckham",
+      "voter_id": "~{\"name\": \"Pete Harckham\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michelle Hinchey",
+      "voter_id": "~{\"name\": \"Michelle Hinchey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Liu",
+      "voter_id": "~{\"name\": \"John Liu\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Peter Oberacker",
+      "voter_id": "~{\"name\": \"Peter Oberacker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roxanne J. Persaud",
+      "voter_id": "~{\"name\": \"Roxanne J. Persaud\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jessica Ramos",
+      "voter_id": "~{\"name\": \"Jessica Ramos\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Monica Martinez",
+      "voter_id": "~{\"name\": \"Monica Martinez\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Mario Mattera",
+      "voter_id": "~{\"name\": \"Mario Mattera\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S7678?summary=&detail=",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "fd15fccc-7237-11f0-acc8-8e31291036f2"
+}

@@ -1,0 +1,112 @@
+{
+  "identifier": "",
+  "motion_text": "Environmental Conservation Vote - Version: A",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-02",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "911ab1ca-7232-11f0-acc8-8e31291036f2",
+  "bill_action": null,
+  "bill_identifier": "S4574",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Siela Bynoe",
+      "voter_id": "~{\"name\": \"Siela Bynoe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patricia Fahy",
+      "voter_id": "~{\"name\": \"Patricia Fahy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pete Harckham",
+      "voter_id": "~{\"name\": \"Pete Harckham\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michelle Hinchey",
+      "voter_id": "~{\"name\": \"Michelle Hinchey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brad Hoylman-Sigal",
+      "voter_id": "~{\"name\": \"Brad Hoylman-Sigal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Kavanagh",
+      "voter_id": "~{\"name\": \"Brian Kavanagh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rachel May",
+      "voter_id": "~{\"name\": \"Rachel May\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anthony H. Palumbo",
+      "voter_id": "~{\"name\": \"Anthony H. Palumbo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jos\u00e9 M. Serrano",
+      "voter_id": "~{\"name\": \"Jos\\u00e9 M. Serrano\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patricia Canzoneri-Fitzpatrick",
+      "voter_id": "~{\"name\": \"Patricia Canzoneri-Fitzpatrick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dan Stec",
+      "voter_id": "~{\"name\": \"Dan Stec\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S4574?summary=&detail=",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "911ae924-7232-11f0-acc8-8e31291036f2"
+}

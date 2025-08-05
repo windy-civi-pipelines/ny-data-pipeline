@@ -1,0 +1,88 @@
+{
+  "identifier": "",
+  "motion_text": "Children And Families Vote",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "67a87452-7233-11f0-acc8-8e31291036f2",
+  "bill_action": null,
+  "bill_identifier": "S4929",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jabari Brisport",
+      "voter_id": "~{\"name\": \"Jabari Brisport\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Samra Brouk",
+      "voter_id": "~{\"name\": \"Samra Brouk\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristen Gonzalez",
+      "voter_id": "~{\"name\": \"Kristen Gonzalez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Zellnor Myrie",
+      "voter_id": "~{\"name\": \"Zellnor Myrie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roxanne J. Persaud",
+      "voter_id": "~{\"name\": \"Roxanne J. Persaud\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robert Rolison",
+      "voter_id": "~{\"name\": \"Robert Rolison\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "William Weber",
+      "voter_id": "~{\"name\": \"William Weber\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S4929?summary=&detail=",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "67a89806-7233-11f0-acc8-8e31291036f2"
+}

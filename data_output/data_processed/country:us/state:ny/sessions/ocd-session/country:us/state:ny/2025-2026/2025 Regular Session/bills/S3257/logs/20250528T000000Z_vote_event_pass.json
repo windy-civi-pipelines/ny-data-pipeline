@@ -1,0 +1,88 @@
+{
+  "identifier": "",
+  "motion_text": "Procurement And Contracts Vote",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-28",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "45ff9900-7230-11f0-acc8-8e31291036f2",
+  "bill_action": null,
+  "bill_identifier": "S3257",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "April Baskin",
+      "voter_id": "~{\"name\": \"April Baskin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jabari Brisport",
+      "voter_id": "~{\"name\": \"Jabari Brisport\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Leroy Comrie",
+      "voter_id": "~{\"name\": \"Leroy Comrie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steve Rhoads",
+      "voter_id": "~{\"name\": \"Steve Rhoads\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "James Sanders Jr.",
+      "voter_id": "~{\"name\": \"James Sanders Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lea Webb",
+      "voter_id": "~{\"name\": \"Lea Webb\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Jack M. Martins",
+      "voter_id": "~{\"name\": \"Jack M. Martins\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 1
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S3257?summary=&detail=",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "45ffba34-7230-11f0-acc8-8e31291036f2"
+}

@@ -1,0 +1,124 @@
+{
+  "identifier": "",
+  "motion_text": "Labor Vote",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "296888c8-722c-11f0-acc8-8e31291036f2",
+  "bill_action": null,
+  "bill_identifier": "S496",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Nathalia Fernandez",
+      "voter_id": "~{\"name\": \"Nathalia Fernandez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robert Jackson",
+      "voter_id": "~{\"name\": \"Robert Jackson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mario Mattera",
+      "voter_id": "~{\"name\": \"Mario Mattera\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shelley Mayer",
+      "voter_id": "~{\"name\": \"Shelley Mayer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Peter Oberacker",
+      "voter_id": "~{\"name\": \"Peter Oberacker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jessica Ramos",
+      "voter_id": "~{\"name\": \"Jessica Ramos\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steve Rhoads",
+      "voter_id": "~{\"name\": \"Steve Rhoads\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robert Rolison",
+      "voter_id": "~{\"name\": \"Robert Rolison\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christopher Ryan",
+      "voter_id": "~{\"name\": \"Christopher Ryan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sean Ryan",
+      "voter_id": "~{\"name\": \"Sean Ryan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "James Sanders Jr.",
+      "voter_id": "~{\"name\": \"James Sanders Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jessica Scarcella-Spanton",
+      "voter_id": "~{\"name\": \"Jessica Scarcella-Spanton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "James Skoufis",
+      "voter_id": "~{\"name\": \"James Skoufis\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S496?summary=&detail=",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "2968ae8e-722c-11f0-acc8-8e31291036f2"
+}

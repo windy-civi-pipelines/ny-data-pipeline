@@ -1,0 +1,88 @@
+{
+  "identifier": "",
+  "motion_text": "Aging Vote",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-01-28",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "a73fc460-722b-11f0-acc8-8e31291036f2",
+  "bill_action": null,
+  "bill_identifier": "S118",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jake Ashby",
+      "voter_id": "~{\"name\": \"Jake Ashby\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cordell Cleare",
+      "voter_id": "~{\"name\": \"Cordell Cleare\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Simcha Felder",
+      "voter_id": "~{\"name\": \"Simcha Felder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Kavanagh",
+      "voter_id": "~{\"name\": \"Brian Kavanagh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Monica Martinez",
+      "voter_id": "~{\"name\": \"Monica Martinez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robert Rolison",
+      "voter_id": "~{\"name\": \"Robert Rolison\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jos\u00e9 M. Serrano",
+      "voter_id": "~{\"name\": \"Jos\\u00e9 M. Serrano\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S118?summary=&detail=",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "a73fef30-722b-11f0-acc8-8e31291036f2"
+}
